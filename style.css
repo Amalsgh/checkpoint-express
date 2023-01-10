@@ -1,0 +1,39 @@
+.navbar-brand {
+    font-weight: bolder;
+    
+
+}
+.menu{
+    color: #fff;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li{
+    list-style: none;
+    margin: 1rem;
+    font-weight: bolder;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    text-align: center;
+    color: rgb(44, 136, 44);
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.btn-primary {
+    background-color: green;
+    border-color: green;
+}
